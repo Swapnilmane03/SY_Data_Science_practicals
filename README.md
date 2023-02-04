@@ -1,0 +1,2 @@
+# SY_Data_Science_practicals
+All_Data_Science_practicals _2022-23
